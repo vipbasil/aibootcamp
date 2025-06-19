@@ -1,0 +1,53 @@
+[
+    {
+      "description": "Respond to a customer asking for bulk pricing options for product ID 4021, and explain any available volume discounts or loyalty perks.",
+      "type": "sales",
+      "complexity": 3
+    },
+    {
+      "description": "Explain the difference between the Basic and Pro service plans for a first-time customer who is comparing them for a 10-person team.",
+      "type": "support",
+      "complexity": 2
+    },
+    {
+      "description": "Analyze the expense report for the month of May and identify any irregular spending or missed invoice payments.",
+      "type": "finance",
+      "complexity": 4
+    },
+    {
+      "description": "Draft a personalized email to a user whose subscription failed three times this month, offering help and suggesting a cheaper plan.",
+      "type": "support",
+      "complexity": 3
+    },
+    {
+      "description": "Generate a follow-up sales email for leads who opened a previous message but didn't respond, including a limited-time 10% discount offer.",
+      "type": "sales",
+      "complexity": 3
+    },
+    {
+      "description": "Generate a breakdown of revenue vs. operational costs for the past 60 days and highlight the top 3 cost drivers.",
+      "type": "finance",
+      "complexity": 5
+    },
+    {
+      "description": "Respond to a customer complaint about a broken feature in the mobile app with empathy and guide them to the workaround or fix.",
+      "type": "support",
+      "complexity": 4
+    },
+    {
+      "description": "Prepare an internal report summarizing feedback from 15 customer support tickets flagged as 'urgent' this week.",
+      "type": "support",
+      "complexity": 3
+    },
+    {
+      "description": "Write a friendly and persuasive product pitch email for the newly launched SmartAnalytics dashboard aimed at e-commerce stores.",
+      "type": "sales",
+      "complexity": 3
+    },
+    {
+      "description": "Review a CSV file of 120 transactions and flag any entries missing invoice numbers or containing mismatched totals.",
+      "type": "finance",
+      "complexity": 4
+    }
+  ]
+  
